@@ -1,2 +1,23 @@
 # hashing-app
-Criptography tool 
+
+#ashing is a freeware Windows application for performing cryptograhic hashes. Quickly perform MD5, SHA-1, SHA-2.
+
+It relies on [OpenSSL](https://www.openssl.org/https:/) for calculation hashes.
+
+Links:
+
+* Article about Cryptographic Hashes and explanation of this app on [Code Project](https://www.codeproject.com/Articles/1044042/Cryptographic-Hashes-What-They-Are-and-Why-You-Shohttps:/)
+* App [home-page](https://hashingapp.github.io/https:/)
+
+## Source code and building
+
+App was written in [C++/CLI](https://en.wikipedia.org/wiki/C%2B%2B/CLIhttps:/) and built with Visual Studio 2015.
+
+Folders:
+
+* *inc* contains headers from openssl
+* *lib* contains compiled openssl code
+* *source* contains the source code from the application itself (UI + logic)
+* *releases* contains compiled versions of the app
+
+Developed by [Jerome Vonk](https://jeromevonk.github.io/).
