@@ -1,0 +1,6 @@
+Version 1.4 - relased 08/03/2018
+- Auto-paste on verify form. Strips the spaces
+- Changed button color to red.
+
+Version 1.5 - release 04/05/2022
+- Fixed bug on file name and path for single file exported to .txt

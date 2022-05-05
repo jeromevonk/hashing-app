@@ -2,7 +2,7 @@
 
 #ashing is a freeware Windows application for performing cryptograhic hashes. Quickly perform MD5, SHA-1, SHA-2.
 
-It relies on [OpenSSL](https://www.openssl.org/https:/) for calculation hashes.
+It relies on [OpenSSL](https://www.openssl.org) for calculation hashes.
 
 Links:
 
@@ -18,6 +18,6 @@ Folders:
 * *inc* contains headers from openssl
 * *lib* contains compiled openssl code
 * *source* contains the source code from the application itself (UI + logic)
-* *releases* contains compiled versions of the app
+* *released* contains compiled versions of the app
 
 Developed by [Jerome Vonk](https://jeromevonk.github.io/).
