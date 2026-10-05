@@ -6,7 +6,6 @@ It relies on [OpenSSL](https://www.openssl.org) for calculation hashes.
 
 Links:
 
-* Article about Cryptographic Hashes and explanation of this app on [Code Project](https://www.codeproject.com/Articles/1044042/Cryptographic-Hashes-What-They-Are-and-Why-You-Sho)
 * App [home-page](https://hashingapp.github.io/)
 
 ## Source code and building
